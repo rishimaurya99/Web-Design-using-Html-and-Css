@@ -1,0 +1,93 @@
+html{
+    height:100%
+}
+.container{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+body{
+    background-image: url(Images/ios.jpg);
+    background-size: cover;
+    background-size: no repeat;
+    background-position: center;
+
+}
+
+header{
+      
+      text-align: center;
+      height:200px;
+      width: 1500px;
+
+}
+
+nav{
+    background-color:rgb(20, 1, 1);
+    height:40px;
+    width: 1500px;
+    text-align: center;
+}
+
+main{
+     text-align: center;
+     height:1900px;
+     width:1500px;
+
+}
+
+footer{
+       
+       height:150px;
+       width:1500px;
+}
+
+header h1{
+    color:white;
+    font-size: 35px;
+}
+
+nav a{
+      text-decoration: none;
+      font-size: 30px;
+      font-family: 'Times New Roman', Times, serif;
+      color: white;
+      padding-left: 10px;
+      padding-right: 10px;
+      
+}
+
+h1{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{ 
+color: white;
+text-align: center;
+font-size: 24px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+ .youtube{
+     text-align: center;
+
+ }
+.Apple Headquarter{
+    text-align: center;
+}
+
+.Apple Store Map{
+    text-align: center;
+}
+
+
+footer p{
+    color:white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
